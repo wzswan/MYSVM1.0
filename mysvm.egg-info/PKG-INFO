@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: mysvm
+Version: 1.0
+Summary: 
+          Implementations of various
+           support vector machine approaches
+          
+Home-page: UNKNOWN
+Author: Wang zhongsheng
+Author-email: wzswan@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: linux
+Provides: mysvm

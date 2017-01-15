@@ -1,0 +1,14 @@
+setup.py
+mysvm/__init__.py
+mysvm/cccp.py
+mysvm/kernel.py
+mysvm/mysvm.py
+mysvm/quadprog.py
+mysvm/sil.py
+mysvm/svm.py
+mysvm/util.py
+mysvm.egg-info/PKG-INFO
+mysvm.egg-info/SOURCES.txt
+mysvm.egg-info/dependency_links.txt
+mysvm.egg-info/requires.txt
+mysvm.egg-info/top_level.txt
